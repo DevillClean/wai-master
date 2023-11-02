@@ -1,0 +1,8 @@
+_site
+.*-cache
+.jekyll-metadata
+.DS_Store
+.netlify
+node_modules/
+
+C:\\Users\\steve\\AppData\\Local\\lighthouse*
